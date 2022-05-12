@@ -12,3 +12,8 @@ source_metadata:
       parent: null
 created_at: '2022-02-28T22:48:13.461393'
 last_modified_at: '2022-02-28T22:48:13.461396'
+statistics:
+  total_words: 17905
+  total_non_words: 1741
+quality:
+  non_words_ratio: 0.1
